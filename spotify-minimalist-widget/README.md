@@ -3,7 +3,7 @@
 A clean, minimalist Spotify desktop widget for macOS using [Übersicht](https://icht.ai). 
 Designed to match light/aesthetic desktop setups with a soft pink accent.
 
-![Screenshot](Screenshot.jpeg)
+![Screenshot](screenshot.png)
 
 ## Features
 - **Spotify Integration**: Displays current track and artist.
